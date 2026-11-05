@@ -39,15 +39,15 @@ The following fields were examined to understand the authentication failures:
 **Windows Event Viewer**
 
 <p align="left">
-  <img src="first_scenario_images/Event Viewer 1.png" width="60%">
-  <img src="first_scenario_images/Event Viewer 2.png" width="60%">
+  <img src="first_scenario_images/Event Viewer 1.png" width="70%">
+  <img src="first_scenario_images/Event Viewer 2.png" width="70%">
 </p>
 
 **Wazuh Dashboard**
 
 <p align="left">
-  <img src="first_scenario_images/Wazuh 1.png" width="60%">
-  <img src="first_scenario_images/Wazuh 2.png" width="60%">
+  <img src="first_scenario_images/Wazuh 1.png" width="70%">
+  <img src="first_scenario_images/Wazuh 2.png" width="70%">
 </p>
 
 ## Findings
