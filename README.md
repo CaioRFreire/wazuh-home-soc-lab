@@ -1,4 +1,4 @@
-# wazuh-home-soc-lab
+# Wazuh Home SOC Lab
 
 A hands-on cybersecurity project focused on endpoint monitoring, security event collection, and detection using **Wazuh** and **Sysmon**.
 
@@ -34,7 +34,7 @@ Sysmon generates detailed endpoint telemetry, which is collected by the Wazuh Ag
 - Tested file creation and deletion.
 - Analyzed file integrity events and associated metadata.
 
-[View Scenario 2](./Scenario-2-File-Integrity-Monitoring/)
+[View Scenario 2](/wazuh-lab-reports/second_scenario.md)
 
 ### 3. Windows Process Creation Monitoring with Sysmon
 
@@ -43,7 +43,7 @@ Sysmon generates detailed endpoint telemetry, which is collected by the Wazuh Ag
 - Integrated additional detection rules from SOCFortress.
 - Monitored and analyzed process creation events (Event ID 1).
 
-[View Scenario 3](./Scenario-3-Windows-Process-Monitoring/)
+[View Scenario 3](/wazuh-lab-reports/third_scenario.md)
 
 ## Key Skills Demonstrated
 
