@@ -117,15 +117,15 @@ The following evidence documents the configuration and validation of the monitor
 **1. Wazuh Agent Configuration Group**
 
 <p align="left">
-  <img src="third_scenario_prints/sysmon group.png" width="70%">
-  <img src="third_scenario_prints/group config.png" width="70%">
+  <img src="third_scenario_images/sysmon group.png" width="70%">
+  <img src="third_scenario_images/group config.png" width="70%">
 </p>
 
 **2. Sysmon Detection Rules**
 
 <p align="left">
-  <img src="third_scenario_prints/rules1.png" width="70%">
-  <img src="third_scenario_prints/rules2.png" width="70%">
+  <img src="third_scenario_images/rules1.png" width="70%">
+  <img src="third_scenario_images/rules2.png" width="70%">
 </p>
 
 
