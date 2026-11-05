@@ -53,25 +53,25 @@ The following fields were considered during the analysis:
 **1. FIM Configuration**
 
 <p align="left">
-  <img src="second_scenario_images/ossec conf file.png" width="60%">
+  <img src="second_scenario_images/ossec conf file.png" width="70%">
 </p>
 
 **2. File Creation and Deletion Events**
 
 <p align="left">
-  <img src="second_scenario_images/wazuh fim dashboard.png" width="60%">
+  <img src="second_scenario_images/wazuh fim dashboard.png" width="70%">
 </p>
 
 **3. File Creation Event Details**
 
 <p align="left">
-  <img src="second_scenario_images/file added event.png" width="60%">
+  <img src="second_scenario_images/file added event.png" width="70%">
 </p>
 
 **4. File Deletion Event Details**
 
 <p align="left">
-  <img src="second_scenario_images/file deleted event.png" width="60%">
+  <img src="second_scenario_images/file deleted event.png" width="70%">
 </p>
 
 ## Findings
