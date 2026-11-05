@@ -30,9 +30,9 @@ Sysmon generates detailed endpoint telemetry, which is collected by the Wazuh Ag
 
 ### 2. File Integrity Monitoring (FIM)
 
-- Configured real-time monitoring of a Windows directory.
+- Configured real-time monitoring of a directory.
 - Tested file creation and deletion.
-- Analyzed file integrity events and associated metadata.
+- Analyzed file integrity events.
 
 [View Scenario 2](/wazuh-lab-reports/second_scenario.md)
 
@@ -40,8 +40,8 @@ Sysmon generates detailed endpoint telemetry, which is collected by the Wazuh Ag
 
 - Installed and configured Sysmon on the Windows endpoint.
 - Integrated Sysmon event collection through Wazuh Agent groups.
-- Integrated additional detection rules from SOCFortress.
-- Monitored and analyzed process creation events (Event ID 1).
+- Integrated sysmon detection rules.
+- Monitored and analyzed process creation events.
 
 [View Scenario 3](/wazuh-lab-reports/third_scenario.md)
 
@@ -56,9 +56,3 @@ Sysmon generates detailed endpoint telemetry, which is collected by the Wazuh Ag
 - Detection Rules Integration
 - Linux Administration
 - Virtualized Lab Deployment
-
-## Project Objective
-
-The objective of this project was to gain practical experience with SIEM deployment, endpoint telemetry collection, and security event analysis while developing a foundation in SOC operations and defensive security.
-
-This project was developed in a controlled home lab environment for educational and portfolio purposes. Detection results are limited to the scenarios and configurations documented in this repository.
