@@ -1,6 +1,6 @@
 # Wazuh Home SOC Lab
 
-A hands-on cybersecurity project focused on endpoint monitoring, security event collection, and detection using **Wazuh** and **Sysmon**.
+Cybersecurity project focused on endpoint monitoring, security event collection, and detection using **Wazuh** and **Sysmon**.
 
 The lab was built in a virtualized environment to simulate basic security monitoring activities on a Windows endpoint.
 
@@ -14,9 +14,7 @@ The lab was built in a virtualized environment to simulate basic security monito
 
 ## Lab Architecture
 
-The environment consists of a Wazuh server running on Ubuntu Server and a Windows endpoint connected through a Wazuh Agent.
-
-Sysmon generates detailed endpoint telemetry, which is collected by the Wazuh Agent and forwarded to the Wazuh Manager for analysis.
+The environment consists of a Wazuh Manager running on Ubuntu Server and a Windows endpoint connected through a Wazuh Agent.
 
 ## Implemented Scenarios
 
