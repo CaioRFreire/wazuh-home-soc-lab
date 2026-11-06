@@ -53,7 +53,7 @@ By assigning the Windows endpoint to the group, the configuration can be managed
 
 After configuring event collection, additional Sysmon detection rules were integrated into the Wazuh Manager.
 
-The rules were obtained from the **SOCFortress Wazuh Rules** repository, specifically its Windows Sysmon collection:
+The rules were obtained from the **SOCFortress Wazuh Rules** repository:
 
 [https://github.com/socfortress/Wazuh-Rules/tree/main/Windows_Sysmon](https://github.com/socfortress/Wazuh-Rules/tree/main/Windows_Sysmon)
 
