@@ -99,5 +99,3 @@ Although these events do not necessarily indicate malicious activity, they provi
 ## Conclusion
 
 The test was successfully completed, confirming that Wazuh's File Integrity Monitoring can detect file creation and deletion in a specific Windows directory.
-
-This capability can help detect suspicious activities such as unauthorized file placement, malware deployment, and attempts to remove or tamper with files.
