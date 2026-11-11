@@ -6,11 +6,11 @@ The lab was built in a virtualized environment to simulate basic security monito
 
 ## Technologies Used
 
-- **Wazuh** — Security event collection, monitoring, and analysis.
-- **Sysmon** — Detailed Windows system activity monitoring.
-- **Windows 11** — Monitored endpoint.
-- **Ubuntu Server** — Wazuh Manager and Dashboard.
-- **VirtualBox** — Virtualization environment.
+- **Wazuh** - Security event collection, monitoring, and analysis.
+- **Sysmon** - Detailed Windows system activity monitoring.
+- **Windows 11** - Monitored endpoint.
+- **Ubuntu Server** - Wazuh Manager and Dashboard.
+- **VirtualBox** - Virtualization environment.
 
 ## Lab Architecture
 
